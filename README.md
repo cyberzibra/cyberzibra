@@ -1,6 +1,34 @@
-# ðŸ’« About Me:
-Name: Shiva<br><br>Profession: Ethical Hacker<br><br>Expertise:<br><br>Penetration Testing<br><br>Vulnerability Assessments<br><br>Bug Bounty Hunting<br><br><br>Specializations:<br><br>Web Security<br><br>Mobile Security<br><br>Network Security<br><br><br>Current Engagement:<br><br>Active participant in the Bugcrowd bug bounty program<br><br><br>Passion:<br><br>Contributing to open-source security initiatives<br><br>Helping organizations strengthen their security posture<br><br><br>Goal:<br><br>Continuous learning and knowledge sharing in the cybersecurity community
-
+« About Me:
+ <h1>About Me</h1>
+    
+    <p><strong>Name:</strong> Shiva</p>
+    <p><strong>Profession:</strong> Ethical Hacker</p>
+    
+    <h2>Expertise</h2>
+    <ul>
+        <li>Penetration Testing</li>
+        <li>Vulnerability Assessments</li>
+        <li>Bug Bounty Hunting</li>
+    </ul>
+    
+    <h2>Specializations</h2>
+    <ul>
+        <li>Web Security</li>
+        <li>Mobile Security</li>
+        <li>Network Security</li>
+    </ul>
+    
+    <h2>Current Engagement</h2>
+    <p>Active participant in the Bugcrowd bug bounty program</p>
+    
+    <h2>Passion</h2>
+    <ul>
+        <li>Contributing to open-source security initiatives</li>
+        <li>Helping organizations strengthen their security posture</li>
+    </ul>
+    
+    <h2>Goal</h2>
+    <p>Continuous learning and knowledge sharing in the cybersecurity community</p>
 
 ## ðŸŒ Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Zibra) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Cyber_zibra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Cyber_zibra) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Cyber_zibra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Cyber_zibra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Cyber_zibra) 
